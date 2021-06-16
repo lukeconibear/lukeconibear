@@ -7,6 +7,6 @@ I use [Python](https://www.lukeconibear.com/software.html) to analyse complex ai
 I’ve authored [academic papers](https://www.lukeconibear.com/publications.html), some of which have been in the [news](https://www.lukeconibear.com/news.html).
 
 **Contact**  
-Email: L.A.Conibear (at) Leeds.ac.uk  
+Email: laconibear (at) gmail.com  
 Twitter: [@lukeconibear](https://twitter.com/lukeconibear)  
 LinkedIn: [lukeconibear](https://www.linkedin.com/in/lukeconibear/)  
