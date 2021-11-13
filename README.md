@@ -3,7 +3,7 @@
 
 I'm a Research Software Engineer (Machine Learning) at the University of Leeds.  
 
-I used to research [air pollution](https://www.lukeconibear.com/airpollution.html) using [complex numerical models](https://www.lukeconibear.com/software.html).
+I used to research [air pollution](https://www.lukeconibear.com/airpollution.html) using [complex numerical models](https://www.lukeconibear.com/technical.html).
 
 I’ve authored [academic papers](https://www.lukeconibear.com/publications.html), some of which have been in the [news](https://www.lukeconibear.com/news.html).
 
