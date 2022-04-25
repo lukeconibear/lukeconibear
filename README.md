@@ -3,10 +3,4 @@
 
 I'm a Research Software Engineer (Machine Learning) at the University of Leeds.  
 
-I used to research [air pollution](https://www.lukeconibear.com/airpollution.html) using [complex numerical models](https://www.lukeconibear.com/technical.html).
-
-I’ve authored [academic papers](https://www.lukeconibear.com/publications.html), some of which have been in the [news](https://www.lukeconibear.com/news.html).
-
-**Contact**  
-laconibear (at) gmail.com  
-[Website](https://www.lukeconibear.com/)  
+I'm interested in solving problems, particularly involving [air pollution](https://www.lukeconibear.com/airpollution.html), [Python](https://www.lukeconibear.com/swd6_hpp/), [numerical atmospheric models](https://wrfchem-leeds.github.io/WRFotron/), and [machine learning](https://www.lukeconibear.com/intro_ml/).  
